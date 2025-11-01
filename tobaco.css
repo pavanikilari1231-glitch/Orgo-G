@@ -1,0 +1,161 @@
+    body{
+        background-color: #eeebd2;
+        margin: 5px 5px 5px 5px;
+    }
+
+    .logo{
+        width: 250px;
+        height: 80px;
+    }
+    .h_buttons{
+        display: flex;
+        justify-content: center;
+    }
+    .name{
+        margin-left: 20px;
+        display: inline;
+        font-size: 50px;
+    }
+    .but{
+        margin-left: 20px;
+        margin-right: 20px;
+        background: transparent;
+        color: white;
+        border: none;
+        padding: 10px;
+        border-radius: 6px;
+    }
+    .but:hover{
+        cursor: pointer;
+        border: 1px solid black;
+        color: black;
+    }
+    .background{
+        background-image: url("/loba.png");
+    }
+    h1{
+        color: "#eeebd2";
+
+    background-color: "#d8a29b";
+
+    font-family: "Book Antiqua", Times, serif;
+
+    border: thin groove #9baab2;
+
+    }
+
+    h2 {
+
+    color: #8b007e;
+
+    font-family: "Book Antiqua", Times, serif;
+
+    }
+
+    h3{
+
+    font-family: "Book Antiqua", Times, serif;
+    color: "#8b007e";
+    }
+
+    .em{
+
+    font-weight: bold;
+
+    font-style: italic;
+    }
+    hr {
+
+    margin-right: 10%;
+
+    margin-left : 10%;
+
+    }
+    .men{
+        border: 1px solid rgb(156, 150, 150);
+        border-radius: 10px;
+        margin-right: 20px;
+    }
+
+    .data{
+    padding: 30px;
+    border: 0.5px solid rgb(156, 150, 150);
+    border-radius: 10px;
+    }
+
+.pics{
+    width:300px;
+        height: 201px;
+        margin-left: 35px;
+        margin-right: 35px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        border-radius: 40px;
+}
+
+    .link {
+
+    color: "#8b007c";
+
+    font-family: "Lucida Casual", Times, serif;
+
+    font-weight: bold;
+
+    font-size: 10pt;
+
+    margin-left: 0%;
+
+    }
+    p{
+    font-family: "Bookman Old Style", Times, serif;
+
+    margin-left: 10%;
+
+    text-align: justify;
+
+    }
+
+    strong {
+
+    font-family: Arial, sans-serif;
+
+    font-size : 12pt;
+
+    color: red;
+
+    }
+
+    .zipper{
+        display: flex;
+        
+    }
+    th {
+
+    background-color: "#b2a474";
+
+    box-align: center;
+
+    color: #8b007c;
+
+    }
+
+    table {
+        padding: 2pt 2pt 2pt 2pt;
+
+    }
+
+    td.firstcol {
+
+
+    background-color: "#00acac";
+    font-weight: bold;
+
+    text-align: center;
+
+    }
+
+    table.main {
+
+    padding: 0px 0px 0px 0px;
+
+    }

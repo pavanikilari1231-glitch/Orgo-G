@@ -1,0 +1,63 @@
+.logo{
+    width: 250px;
+    height: 80px;
+}
+.h_buttons{
+    display: flex;
+    justify-content: center;
+}
+.name{
+    margin-left: 20px;
+    display: inline;
+    font-size: 50px;
+}
+.but{
+    margin-left: 20px;
+    margin-right: 20px;
+    background: transparent;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+}
+.but:hover{
+    cursor: pointer;
+    border: 1px solid black;
+    color: black;
+}
+
+.sides{
+    display: flex;
+}
+
+.image{
+    width:300px;
+        height: 201px;
+        margin-left: 35px;
+        margin-right: 35px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        border-radius: 40px;
+}
+
+.background{
+    background-image: url("/loba.png");
+}
+.img{
+        width:300px;
+        height: 201px;
+        margin-left: 35px;
+        margin-right: 35px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        border-radius: 40px;
+}
+.back{
+    border: 2px solid black;
+    background-color: wheat;
+
+}
+.c_h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

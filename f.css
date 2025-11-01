@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 250px;
+    height: 80px;
+}
+.h_buttons{
+display: flex;
+justify-content: center;
+}
+section {
+    max-width: 600px;
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 20px;
+}
+.but{
+margin-left: 20px;
+margin-right: 20px;
+background: transparent;
+color: white;
+border: none;
+padding: 10px;
+border-radius: 6px;
+}
+.but:hover{
+cursor: pointer;
+border: 1px solid black;
+color: black;
+}
+.background{
+background-image: url("/loba.png");
+}
